@@ -1,13 +1,13 @@
 <div align="">
 
-# <a name="tech-stack">Social Forge</a>
+# <a name="tech-stack">Social Sphere</a>
 
    <div align="">
      It's a minified Instagram clone. Make post and quick edits to your posted content.
     </div>
 </div>
 
-## <a name="tech-stack">⚙️ Technologies Used To Build Social orge/a>
+## <a name="tech-stack">⚙️ Technologies Used To Build Social Sphere</a>
 
 - React.js
 - Appwrite
@@ -42,6 +42,6 @@
 
 and many more, including code architecture and reusability
 
-## View The Live Project
+## Want To Check Out Social Sphere
 
 If you're curious to check out the app. Please follow this link. Thanks for watching
